@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^8.0.14",
+    "mocha": "^5.2.0"
+  }
+}
